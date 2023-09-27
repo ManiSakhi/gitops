@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className='App-logo' alt='logo' />
         <div style={{ fontSize: 30 }}>
           Version{' '}
-          <span style={{ color: 'red' }}>Hello, Testing gitops using Argocd withh automatic sync!!!</span>
+          <span style={{ color: 'red' }}>Hello, Testing gitops using Argocd withh automatic sync, testing again forr demo!!!</span>
         </div>
       </header>
     </div>
